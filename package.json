@@ -8,6 +8,9 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
-    "nuxt": "3.0.0"
-  }
+    "nuxt": "3.0.0",
+    "sass": "^1.56.1",
+    "video.js": "^7.20.3"
+  },
+  "dependencies": {}
 }
