@@ -12,5 +12,7 @@
     "sass": "^1.56.1",
     "video.js": "^7.20.3"
   },
-  "dependencies": {}
+  "dependencies": {
+    "@nuxtjs/harlem": "^1.2.0"
+  }
 }
